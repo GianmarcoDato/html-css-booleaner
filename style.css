@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    
+    ;
+
+    
+    
+}
+
+#header{
+    height: 100px;
+    background-color: rgb(75, 130, 234);
+    background-image: url(./img/pattern.png);
+     background-size:25%;
+     ;
+
+}
+
+#logo{
+    height: 40px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+     
+
+     
+
+    
+
