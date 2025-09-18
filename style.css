@@ -6,30 +6,49 @@ body{
 .container{
     max-width: 1200px;
     margin: 0 auto;
-    
-    ;
-
-    
-    
 }
+
+
 
 #header{
     height: 100px;
     background-color: rgb(75, 130, 234);
     background-image: url(./img/pattern.png);
      background-size:25%;
-     ;
+     
 
 }
+.text-small{
+    font-size: 12px;
+    margin: 20px 0;
+    }
+     
+.main{
+    margin-left: 100px;
+    font-size: 25px;
+}
+    
+    
+
 
 #logo{
     height: 40px;
-    margin-left: 100px;
-    margin-top: 50px;
+   margin: 20px 0;
 }
+ 
      
-
-     
+h1{
+    font-size: 45px;
+   margin: 20px 0;
+    
+}
+address {
+    font-style: normal;
+   margin:  0;
+}
+.article-figure{
+    margin: 20px 0;
+}
 
     
 
