@@ -4,7 +4,7 @@ body{
     margin-right: 100px;
 }
 .container{
-    max-width: 1200px;
+    max-width: 1080px;
     margin: 0 auto;
 }
 
@@ -20,8 +20,10 @@ body{
 }
 .text-small{
     font-size: 12px;
-    margin: 20px 0;
+    margin: 0px 0;
     }
+    
+
      
 .main{
     margin-left: 100px;
@@ -49,6 +51,30 @@ address {
 .article-figure{
     margin: 20px 0;
 }
+ul{
+    text-align: left;
+   padding-inline-start: 0;
+   list-style-position: inside;
+}
+th{
+    text-align: left;
+    background-color: rgb(78, 185, 252);
+    color: white;
 
+}
+.w-50{
+    width: 50%;
+}
     
 
+
+
+    tr{
+        background-color: rgb(48, 193, 212);
+    }
+table{
+    border-collapse: collapse;
+}
+.background-white{
+    background-color: white;
+}
